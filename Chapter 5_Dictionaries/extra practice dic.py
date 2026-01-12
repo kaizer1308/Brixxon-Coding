@@ -3,12 +3,12 @@ os.system("cls")
 
 # Exercise: Student Dictionary
 
-name = "Geralt of Rivia"
-program = "Witcher Studies"
-nationality = "Temerian"
+name = "Brixxon"
+program = "CIA"
+nationality = "Chinese"
 age = 90
-school = "Kaer Morhen Academy"
-sword = "Silver Sword"
+school = "Woolworth"
+sword = "Medium Sword"
 
 print(name)
 print(program)

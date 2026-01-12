@@ -15,7 +15,3 @@ elif Marks >= 70:
     print("You got C grade")
 else:
     print("You got d grade")
-   
-    
-    
-    

@@ -1,7 +1,7 @@
 import os
 os.system("cls")
 
-student = {'name': 'sean', 'id': 7, 'course': 'BSC Cybersecurity'}
+student = {'name': 'brixxon', 'id': 7, 'course': 'BSC Cybersecurity'}
 
 print('Student  details before deleting the value\n', student)
 

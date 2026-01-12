@@ -6,6 +6,6 @@ os.system("cls")
 def my_function(fname, lname):
     print(fname + " " + lname)
 
-my_function("Sean", "Fernandez")
-my_function("Seanny", "Ferandez")
+my_function("Brixxon", "Tulabing")
+my_function("Brix", "Tuabing")
 my_function("S", "F")
